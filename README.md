@@ -1,2 +1,2 @@
 # My-projects
-Some porjects which I made
+Some projects which I made
